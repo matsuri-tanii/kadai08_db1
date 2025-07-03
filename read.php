@@ -54,10 +54,9 @@ foreach ($results as $record) {
     body {
       background: #f5f5f5;
       padding: 20px;
-      font-family: sans-serif;
     }
     fieldset {
-      max-width: 800px;
+      max-width: 500px;
       margin: auto;
       background: #fff;
       padding: 20px;
